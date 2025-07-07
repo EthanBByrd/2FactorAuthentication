@@ -83,7 +83,7 @@ def verify():
 
 # Function to send email using smtplib
 def send_email(email, message):
-    sender_email = "coachbyrdow@gmail.com"
+    sender_email = "Insert Email" **ADD EMAIL HERE**
     password = "rszq jxne iatf yrty"
     msg = MIMEText(message)
     msg['Subject'] = 'Your Login Code'
