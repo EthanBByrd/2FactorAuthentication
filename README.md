@@ -36,3 +36,5 @@ python
 >>> from app import db
 >>> db.create_all()
 
+Within the app.py code, make sure to add the test user email.
+
